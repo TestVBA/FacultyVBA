@@ -13,9 +13,7 @@ Begin Report
     Width =14408
     DatasheetFontHeight =10
     ItemSuffix =34
-    DatasheetForeColor =-2147483640
-    DatasheetBackColor =-2147483643
-    DatasheetGridlinesColor =-2147483632
+    DatasheetGridlinesColor =10526880
     Tag ="TabularWithPageHeader~Extensions=Landscape"
     RecSrcDt = Begin
         0x7e4edee6ea07e340
@@ -29,10 +27,73 @@ Begin Report
     FilterOnLoad =0
     OrderByOnLoad =0
     OrderByOnLoad =0
+    DatasheetBackColor12 =-2147483643
     FitToPage =255
     DisplayOnSharePointSite =1
     DatasheetGridlinesColor12 =-2147483632
     DatasheetForeColor12 =-2147483640
+    UnknownProp = {419 ,0 ,0 ,0 ,1712 } Begin
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x01040306dc00d40553ff000002000100ea0a6f08640001000f00580201000200 ,
+        0x5802030001004c00650074007400650072000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000010000000000000001000000 ,
+        0x0200000001000000000000000000000000000000000000000000000050524956 ,
+        0xe220000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000180000000000102710271027 ,
+        0x000010270000000000000000b000a40300000000000000000000000000000000 ,
+        0x00000000000000000300000000000000300210005c4b03006843040000000000 ,
+        0x00000000000000000000000000000000000000000000000046469ff205000000 ,
+        0x04000000ff00ff00010000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0100000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000000000000b0000000534d544a000000001000a000 ,
+        0x410064006f00620065002000500044004600200043006f006e00760065007200 ,
+        0x74006500720000005265736f6c7574696f6e0031323030647069005061676553 ,
+        0x697a65004c65747465720050616765526567696f6e00004c656164696e674564 ,
+        0x67650000496e707574536c6f74004f6e6c794f6e650000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x3002000045424441000001000100000001000000010000000100000000000000 ,
+        0x5300740061006e00640061007200640000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x00000000000000000000000001000000
+    End
+    UnknownProp = {420 ,0 ,0 ,0 ,100 } Begin
+        0x0400180022000100000000000000000000000000000000000000000000000000 ,
+        0x0000000000000000000000000000000000000000000000000000000000000000 ,
+        0x0000000044006f00630075006d0065006e00740073005c002a002e0070006400 ,
+        0x66000000
+    End
     Begin
         Begin Label
             BackStyle =0
@@ -40,102 +101,40 @@ Begin Report
             FontSize =10
             ForeColor =-2147483615
             FontName ="Calibri"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+        End
+        Begin Line
+            BorderLineStyle =0
         End
         Begin CommandButton
             FontSize =9
             FontWeight =400
             ForeColor =-2147483630
             FontName ="Segoe UI"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            UnknownProp = {324 ,0 ,0 ,0 ,1 } Begin
+                0x00
+            End
         End
         Begin OptionButton
             SpecialEffect =2
+            BorderLineStyle =0
             LabelX =230
             LabelY =-30
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin CheckBox
             SpecialEffect =2
+            BorderLineStyle =0
             LabelX =230
             LabelY =-30
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin OptionGroup
             SpecialEffect =3
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            BorderLineStyle =0
         End
         Begin BoundObjectFrame
             AddColon = NotDefault
             OldBorderStyle =0
+            BorderLineStyle =0
             BackStyle =0
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin TextBox
             AddColon = NotDefault
@@ -143,133 +142,60 @@ Begin Report
             OldBorderStyle =0
             TextFontCharSet =161
             TextAlign =1
+            BorderLineStyle =0
             BackStyle =0
             FontSize =10
             FontName ="Calibri"
             AsianLineBreak =255
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
             ShowDatePicker =0
         End
         Begin ListBox
             AddColon = NotDefault
             SpecialEffect =2
             TextFontCharSet =161
+            BorderLineStyle =0
             FontSize =10
             FontName ="Calibri"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin ComboBox
             AddColon = NotDefault
             OldBorderStyle =0
             TextFontCharSet =161
             TextAlign =1
+            BorderLineStyle =0
             BackStyle =0
             FontSize =10
             FontName ="Calibri"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin Subform
             AddColon = NotDefault
             OldBorderStyle =0
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            BorderLineStyle =0
         End
         Begin ToggleButton
             FontSize =9
             FontWeight =400
             ForeColor =-2147483630
             FontName ="Segoe UI"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            UnknownProp = {321 ,0 ,0 ,0 ,1 } Begin
+                0x00
+            End
         End
         Begin Tab
             TextFontFamily =0
             FontSize =9
             FontName ="Segoe UI"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            UnknownProp = {311 ,0 ,0 ,0 ,1 } Begin
+                0x00
+            End
         End
         Begin Attachment
             BackStyle =0
             OldBorderStyle =0
+            BorderLineStyle =0
             PictureSizeMode =3
             Width =4800
             Height =3840
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
             LabelX =-1800
             AddColon =0
         End
@@ -312,7 +238,7 @@ Begin Report
                     ControlSource ="=Date()"
                     Format ="Long Date"
                     Tag ="Date"
-                    IMEMode =0
+
                 End
                 Begin TextBox
                     Enabled = NotDefault
@@ -329,7 +255,7 @@ Begin Report
                     ControlSource ="=Time()"
                     Format ="Long Time"
                     Tag ="Time"
-                    IMEMode =0
+
                 End
                 Begin TextBox
                     Enabled = NotDefault
@@ -345,7 +271,7 @@ Begin Report
                     ControlSource ="=IIf([Report].[Filter]<>\"\" And [Report].[FilterOn],Replace(\"Filtered to show:"
                         " |\",\"|\",[Report].[Filter]))"
                     Tag ="ReportFilter"
-                    IMEMode =0
+
                 End
             End
         End
@@ -360,18 +286,6 @@ Begin Report
                     BorderWidth =2
                     Width =12960
                     Name ="Line20"
-                    LeftPadding =30
-                    TopPadding =30
-                    RightPadding =30
-                    BottomPadding =30
-                    GridlineStyleLeft =0
-                    GridlineStyleTop =0
-                    GridlineStyleRight =0
-                    GridlineStyleBottom =0
-                    GridlineWidthLeft =1
-                    GridlineWidthTop =1
-                    GridlineWidthRight =1
-                    GridlineWidthBottom =1
                 End
                 Begin Label
                     Width =3365
@@ -381,7 +295,6 @@ Begin Report
                     Caption ="Name"
                     Tag =";DoNotResize;"
                     EventProcPrefix ="Contact_Name_Label"
-                    ColumnGroup =6
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -390,16 +303,23 @@ Begin Report
                     GridlineStyleLeft =1
                     GridlineStyleRight =1
                     GridlineColor =16777215
+                    LayoutCachedWidth =3365
+                    LayoutCachedHeight =285
+                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin Label
-                    Left =3380
+                    Left =3360
                     Width =2025
                     Height =285
                     FontWeight =700
                     Name ="Department_Label"
                     Caption ="Department"
                     Tag =";RegenerateCaption;;DoNotResize;"
-                    ColumnGroup =1
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -408,16 +328,30 @@ Begin Report
                     GridlineStyleLeft =1
                     GridlineStyleRight =1
                     GridlineColor =16777215
+                    LayoutCachedLeft =3360
+                    LayoutCachedWidth =5385
+                    LayoutCachedHeight =285
+                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin Label
-                    Left =5420
-                    Width =1690
+                    Left =5385
+                    Width =1695
                     Height =285
                     FontWeight =700
                     Name ="Office_Label"
                     Caption ="Office"
                     Tag =";RegenerateCaption;;DoNotResize;"
-                    ColumnGroup =2
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -426,17 +360,31 @@ Begin Report
                     GridlineStyleLeft =1
                     GridlineStyleRight =1
                     GridlineColor =16777215
+                    LayoutCachedLeft =5385
+                    LayoutCachedWidth =7080
+                    LayoutCachedHeight =285
+                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
+                        0x02000000
+                    End
+                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
+                        0x02000000
+                    End
+                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin Label
-                    Left =7125
-                    Width =2530
+                    Left =7080
+                    Width =2535
                     Height =285
                     FontWeight =700
                     Name ="Business Phone_Label"
                     Caption ="Business Phone"
                     Tag =";RegenerateCaption;;DoNotResize;"
                     EventProcPrefix ="Business_Phone_Label"
-                    ColumnGroup =3
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -445,17 +393,31 @@ Begin Report
                     GridlineStyleLeft =1
                     GridlineStyleRight =1
                     GridlineColor =16777215
+                    LayoutCachedLeft =7080
+                    LayoutCachedWidth =9615
+                    LayoutCachedHeight =285
+                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
+                        0x03000000
+                    End
+                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
+                        0x03000000
+                    End
+                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin Label
-                    Left =9670
-                    Width =2795
+                    Left =9615
+                    Width =2790
                     Height =285
                     FontWeight =700
                     Name ="E-mail Address_Label"
                     Caption ="E-mail Address"
                     Tag =";RegenerateCaption;;DoNotResize;"
                     EventProcPrefix ="E_mail_Address_Label"
-                    ColumnGroup =4
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -464,9 +426,24 @@ Begin Report
                     GridlineStyleLeft =1
                     GridlineStyleRight =1
                     GridlineColor =16777215
+                    LayoutCachedLeft =9615
+                    LayoutCachedWidth =12405
+                    LayoutCachedHeight =285
+                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
+                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
+                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin Label
-                    Left =12480
+                    Left =12405
                     Width =1920
                     Height =285
                     FontWeight =700
@@ -474,7 +451,6 @@ Begin Report
                     Caption ="Date of Hire"
                     Tag =";RegenerateCaption;;DoNotResize;"
                     EventProcPrefix ="Date_of_Hire_Label"
-                    ColumnGroup =5
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -483,6 +459,21 @@ Begin Report
                     GridlineStyleLeft =1
                     GridlineStyleRight =1
                     GridlineColor =16777215
+                    LayoutCachedLeft =12405
+                    LayoutCachedWidth =14325
+                    LayoutCachedHeight =285
+                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
+                        0x05000000
+                    End
+                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
+                        0x05000000
+                    End
+                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
             End
         End
@@ -509,7 +500,7 @@ Begin Report
                     ControlSource ="Faculty Type"
                     EventProcPrefix ="Faculty_Type"
                     GridlineColor =13603685
-                    IMEMode =0
+
                 End
             End
         End
@@ -534,7 +525,6 @@ Begin Report
                     Tag ="HyperlinkToDetails~FormName=Faculty Details~SourceID=ID"
                     EventProcPrefix ="Contact_Name"
                     SmartTags ="\"urn:schemas-microsoft-com:office:smarttags#PersonName\""
-                    ColumnGroup =6
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -567,56 +557,134 @@ Begin Report
                             Condition ="..."
                             Action ="Requery"
                         End
+                        Begin
+                            Comment ="_AXL:<?xml version=\"1.0\" encoding=\"UTF-16\" standalone=\"no\"?>\015\012<UserI"
+                                "nterfaceMacro For=\"Contact Name\" xmlns=\"http://schemas.microsoft.com/office/a"
+                                "ccessservices/2009/11/application\" xmlns:a=\"http://schemas.microsoft.com/offic"
+                                "e/accessservices/2009/11/forms"
+                        End
+                        Begin
+                            Comment ="_AXL:\"><Statements><ConditionalBlock><If><Condition>IsNull([ID])</Condition><St"
+                                "atements><Action Name=\"Beep\"/></Statements></If></ConditionalBlock><Conditiona"
+                                "lBlock><If><Condition>Not IsNull([ID])</Condition><Statements><Action Name=\"Ope"
+                                "nForm\"><Argument "
+                        End
+                        Begin
+                            Comment ="_AXL:Name=\"FormName\">Faculty Details</Argument><Argument Name=\"WhereCondition"
+                                "\">=\"[ID]=\" &amp; [ID]</Argument><Argument Name=\"WindowMode\">Dialog</Argumen"
+                                "t></Action><Action Name=\"OnError\"/><Action Name=\"Requery\"/></Statements></If"
+                                "></ConditionalBlock></Sta"
+                        End
+                        Begin
+                            Comment ="_AXL:tements></UserInterfaceMacro>"
+                        End
                     End
+
+                    LayoutCachedTop =30
+                    LayoutCachedWidth =3365
+                    LayoutCachedHeight =315
                     DisplayAsHyperlink =2
-                    IMEMode =0
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin TextBox
                     TextAlign =0
                     IMESentenceMode =3
-                    Left =5420
+                    Left =5385
                     Top =30
-                    Width =1690
+                    Width =1695
                     Height =285
                     TabIndex =3
                     Name ="Office"
                     ControlSource ="Office"
-                    ColumnGroup =2
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
                     RightPadding =0
                     BottomPadding =0
                     GridlineColor =-2147483609
-                    IMEMode =0
+
+                    LayoutCachedLeft =5385
+                    LayoutCachedTop =30
+                    LayoutCachedWidth =7080
+                    LayoutCachedHeight =315
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
+                        0x02000000
+                    End
+                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
+                        0x02000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin TextBox
                     TextAlign =0
                     IMESentenceMode =3
-                    Left =7125
+                    Left =7080
                     Top =30
-                    Width =2530
+                    Width =2535
                     Height =285
                     TabIndex =4
                     Name ="Business Phone"
                     ControlSource ="Business Phone"
                     EventProcPrefix ="Business_Phone"
-                    ColumnGroup =3
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
                     RightPadding =0
                     BottomPadding =0
                     GridlineColor =-2147483609
-                    IMEMode =0
+
+                    LayoutCachedLeft =7080
+                    LayoutCachedTop =30
+                    LayoutCachedWidth =9615
+                    LayoutCachedHeight =315
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
+                        0x03000000
+                    End
+                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
+                        0x03000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin TextBox
                     FontUnderline = NotDefault
                     TextAlign =0
                     IMESentenceMode =3
-                    Left =9670
+                    Left =9615
                     Top =30
-                    Width =2795
+                    Width =2790
                     Height =285
                     ColumnWidth =2400
                     TabIndex =5
@@ -626,7 +694,6 @@ Begin Report
                     Tag ="EmailHyperlink"
                     EventProcPrefix ="E_mail_Address"
                     SmartTags ="\"urn:schemas-microsoft-com:office:smarttags#PersonName\""
-                    ColumnGroup =4
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
@@ -653,14 +720,51 @@ Begin Report
                             Argument =""
                             Argument ="-1"
                         End
+                        Begin
+                            Comment ="_AXL:<?xml version=\"1.0\" encoding=\"UTF-16\" standalone=\"no\"?>\015\012<UserI"
+                                "nterfaceMacro For=\"E-mail Address\" xmlns=\"http://schemas.microsoft.com/office"
+                                "/accessservices/2009/11/application\" xmlns:a=\"http://schemas.microsoft.com/off"
+                                "ice/accessservices/2009/11/for"
+                        End
+                        Begin
+                            Comment ="_AXL:ms\"><Statements><Action Name=\"OnError\"/><ConditionalBlock><If><Condition"
+                                ">Not IsNull([Screen].[ActiveControl])</Condition><Statements><Action Name=\"EMai"
+                                "lDatabaseObject\"><Argument Name=\"To\">=[Screen].[ActiveControl]</Argument></Ac"
+                                "tion></Statements></"
+                        End
+                        Begin
+                            Comment ="_AXL:If></ConditionalBlock></Statements></UserInterfaceMacro>"
+                        End
                     End
+
+                    LayoutCachedLeft =9615
+                    LayoutCachedTop =30
+                    LayoutCachedWidth =12405
+                    LayoutCachedHeight =315
                     DisplayAsHyperlink =2
-                    IMEMode =0
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
+                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin TextBox
                     TextAlign =0
                     IMESentenceMode =3
-                    Left =12480
+                    Left =12405
                     Top =30
                     Width =1920
                     Height =285
@@ -669,33 +773,75 @@ Begin Report
                     ControlSource ="Date of Hire"
                     Format ="Short Date"
                     EventProcPrefix ="Date_of_Hire"
-                    ColumnGroup =5
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
                     RightPadding =0
                     BottomPadding =0
                     GridlineColor =-2147483609
-                    IMEMode =0
+
+                    LayoutCachedLeft =12405
+                    LayoutCachedTop =30
+                    LayoutCachedWidth =14325
+                    LayoutCachedHeight =315
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
+                        0x05000000
+                    End
+                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
+                        0x05000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin TextBox
                     TextAlign =0
                     IMESentenceMode =3
-                    Left =3380
+                    Left =3360
                     Top =30
                     Width =2025
                     Height =285
                     TabIndex =2
                     Name ="Department"
                     ControlSource ="Department"
-                    ColumnGroup =1
                     GroupTable =4
                     LeftPadding =0
                     TopPadding =0
                     RightPadding =0
                     BottomPadding =0
                     GridlineColor =-2147483609
-                    IMEMode =0
+
+                    LayoutCachedLeft =3360
+                    LayoutCachedTop =30
+                    LayoutCachedWidth =5385
+                    LayoutCachedHeight =315
+                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x04000000
+                    End
                 End
                 Begin TextBox
                     Visible = NotDefault
@@ -707,7 +853,7 @@ Begin Report
                     Name ="ID"
                     ControlSource ="ID"
                     GridlineColor =-2147483609
-                    IMEMode =0
+
                 End
             End
         End
@@ -720,14 +866,13 @@ Begin Report
                 Begin TextBox
                     TextAlign =0
                     IMESentenceMode =3
-                    Left =1111
+                    Left =1110
                     Top =60
-                    Width =3365
+                    Width =3360
                     Height =331
                     Name ="FacultyCount"
                     ControlSource ="=Count(*)"
                     Tag ="CountRecords"
-                    RowGroup =7
                     GroupTable =5
                     LeftPadding =0
                     TopPadding =0
@@ -735,7 +880,23 @@ Begin Report
                     BottomPadding =0
                     GridlineStyleTop =1
                     GridlineColor =-2147483609
-                    IMEMode =0
+
+                    LayoutCachedLeft =1110
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =4470
+                    LayoutCachedHeight =391
+                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x02000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x05000000
+                    End
                     Begin
                         Begin Label
                             Left =300
@@ -744,7 +905,6 @@ Begin Report
                             Height =331
                             Name ="FacultyCount_Label"
                             Caption ="Subtotal"
-                            RowGroup =7
                             GroupTable =5
                             LeftPadding =0
                             TopPadding =0
@@ -752,6 +912,16 @@ Begin Report
                             BottomPadding =0
                             GridlineStyleTop =1
                             GridlineColor =-2147483609
+                            LayoutCachedLeft =300
+                            LayoutCachedTop =60
+                            LayoutCachedWidth =1111
+                            LayoutCachedHeight =391
+                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                                0x02000000
+                            End
+                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                                0x05000000
+                            End
                         End
                     End
                 End
@@ -775,7 +945,7 @@ Begin Report
                     Name ="txtPages"
                     ControlSource ="=\"Page \" & [Page] & \" of \" & [Pages]"
                     Tag ="PageOfPages"
-                    IMEMode =0
+
                 End
             End
         End
@@ -789,14 +959,13 @@ Begin Report
                     TextFontCharSet =204
                     TextAlign =0
                     IMESentenceMode =3
-                    Left =1081
+                    Left =1080
                     Top =60
-                    Width =3425
+                    Width =3420
                     Height =331
                     Name ="TotalCount"
                     ControlSource ="=Count(*)"
                     Tag ="CountRecords"
-                    RowGroup =8
                     GroupTable =6
                     LeftPadding =0
                     TopPadding =0
@@ -805,7 +974,23 @@ Begin Report
                     GridlineStyleTop =1
                     GridlineColor =-2147483609
                     GridlineWidthTop =2
-                    IMEMode =0
+
+                    LayoutCachedLeft =1080
+                    LayoutCachedTop =60
+                    LayoutCachedWidth =4500
+                    LayoutCachedHeight =391
+                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
+                        0x01000000
+                    End
+                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
+                        0x03000000
+                    End
+                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
+                        0x06000000
+                    End
                     Begin
                         Begin Label
                             TextFontCharSet =204
@@ -815,7 +1000,6 @@ Begin Report
                             Height =331
                             Name ="TotalCount_Label"
                             Caption ="Total"
-                            RowGroup =8
                             GroupTable =6
                             LeftPadding =0
                             TopPadding =0
@@ -824,6 +1008,16 @@ Begin Report
                             GridlineStyleTop =1
                             GridlineColor =-2147483609
                             GridlineWidthTop =2
+                            LayoutCachedLeft =300
+                            LayoutCachedTop =60
+                            LayoutCachedWidth =1081
+                            LayoutCachedHeight =391
+                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
+                                0x03000000
+                            End
+                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                                0x06000000
+                            End
                         End
                     End
                 End
