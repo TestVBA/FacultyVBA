@@ -15,8 +15,8 @@ Begin Form
     Width =11055
     DatasheetFontHeight =11
     ItemSuffix =279
-    Right =17880
-    Bottom =8130
+    Right =9075
+    Bottom =10620
     DatasheetGridlinesColor =-1
     Tag ="SplitList"
     Picture ="office.png"
@@ -41,7 +41,6 @@ Begin Form
     SplitFormSplitterBar =0
     SplitFormSize =1080
     SplitFormPrinting =1
-    DatasheetBackColor12 =16777215
     ShowPageMargins =0
     DisplayOnSharePointSite =1
     TotalsRow =1
@@ -359,61 +358,6 @@ Begin Form
     End
     PictureSizeMode =4
     DatasheetGridlinesColor12 =-1
-    UnknownProp = {419 ,0 ,0 ,0 ,1460 } Begin
-        0x0000841900000000000000002c54f02f01000000bc7838000100000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x01040205dc00d804032f000002000100ea0a6f086400010001002c0102000200 ,
-        0x2c01030001004c0065007400740065007200000001000000a8633800625f5a30 ,
-        0x2e000000364c380000000000304c3800d89e763058643800cd5f5a3034643800 ,
-        0x3064380000000000000000000000000000000000010000000000000001000000 ,
-        0x0200000001000000000000000000000000000000000000000000000050524956 ,
-        0xe230000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000180000000000102710271027 ,
-        0x0000102700000000000000000000c40200000000000000000000000000000000 ,
-        0x00000000000000000300000000000000140210005c4b03006843040000000000 ,
-        0x00000000010001000000000000000000000000000000000018c232e10a000000 ,
-        0x01000000ff00ff00000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x1402000039585258020000003130585800000000000000000000000000000000 ,
-        0x000000000000000000000000000000002a000000160100000000170334010000 ,
-        0x18034c0100001201000000000101010000007801010000006c01010000006501 ,
-        0x0000000077036401000066010000000091010000000067011600000068011500 ,
-        0x00008e01000000006901000000006a01150000007f01000000006f0101000000 ,
-        0xfa01000000007001000000007101000000007201000000009201000000009301 ,
-        0x000000009401010000006b01030000000d01000000006d010000000089010000 ,
-        0x0000140100000000150101000000020100000000030100000000040100000000 ,
-        0x0f01000000001101000000001001000000008c01000000008d01000000007a03 ,
-        0x7e0100007c02000000007d020000000014000000300000000000000000000000 ,
-        0x0000000000000000140000003000000000000000000000000000000000000000 ,
-        0x1600000000000000000000000000000000000000000000000000960000001402 ,
-        0x0000395852580200000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000250000001201000000000101010000007801 ,
-        0x010000006c010100000065010000000077031601000066010000000091010000 ,
-        0x00006701160000006801150000008e01000000006901000000006a0115000000 ,
-        0x7f01000000006f01010000007001000000007101
-    End
-    UnknownProp = {420 ,0 ,0 ,0 ,134 } Begin
-        0x040014002b000100000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000078007200780030003000 ,
-        0x3000300061006100360061006200300033003700000000000000000000000000 ,
-        0x000000000000
-    End
     Begin
         Begin Label
             BackStyle =0
@@ -421,34 +365,14 @@ Begin Form
             FontSize =9
             ForeColor =-2147483615
             FontName ="Segoe UI"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin Rectangle
             SpecialEffect =3
             BackStyle =0
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            BorderLineStyle =0
+        End
+        Begin Image
+            BorderLineStyle =0
         End
         Begin CommandButton
             TextFontCharSet =161
@@ -456,162 +380,59 @@ Begin Form
             FontWeight =400
             ForeColor =-2147483615
             FontName ="Segoe UI"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
-            UnknownProp = {324 ,0 ,0 ,0 ,1 } Begin
-                0x00
-            End
+            BorderLineStyle =0
         End
         Begin OptionButton
             SpecialEffect =2
+            BorderLineStyle =0
             LabelX =230
             LabelY =-30
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin CheckBox
             SpecialEffect =2
+            BorderLineStyle =0
             LabelX =230
             LabelY =-30
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin OptionGroup
             SpecialEffect =3
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            BorderLineStyle =0
         End
         Begin BoundObjectFrame
             AddColon = NotDefault
             SpecialEffect =2
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
+            BorderLineStyle =0
         End
         Begin TextBox
             AddColon = NotDefault
             FELineBreak = NotDefault
             SpecialEffect =2
             TextFontCharSet =204
+            BorderLineStyle =0
             FontSize =11
             FontName ="Calibri"
             AsianLineBreak =255
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
-            ShowDatePicker =1
         End
         Begin ListBox
             AddColon = NotDefault
             SpecialEffect =2
             TextFontCharSet =204
+            BorderLineStyle =0
             FontSize =11
             FontName ="Calibri"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin ComboBox
             AddColon = NotDefault
             SpecialEffect =2
             TextFontCharSet =204
+            BorderLineStyle =0
             FontSize =11
             FontName ="Calibri"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin Subform
             AddColon = NotDefault
+            BorderLineStyle =0
             BorderColor =-2147483609
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
         End
         Begin ToggleButton
             TextFontCharSet =161
@@ -619,60 +440,21 @@ Begin Form
             FontWeight =400
             ForeColor =-2147483630
             FontName ="Segoe UI"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
-            UnknownProp = {321 ,0 ,0 ,0 ,1 } Begin
-                0x00
-            End
+            BorderLineStyle =0
         End
         Begin Tab
             TextFontFamily =0
             FontSize =9
             FontName ="Segoe UI"
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
-            UnknownProp = {311 ,0 ,0 ,0 ,1 } Begin
-                0x00
-            End
+            BorderLineStyle =0
         End
         Begin Attachment
             BackStyle =0
             OldBorderStyle =0
+            BorderLineStyle =0
             PictureSizeMode =3
             Width =4800
             Height =3840
-            LeftPadding =30
-            TopPadding =30
-            RightPadding =30
-            BottomPadding =30
-            GridlineStyleLeft =0
-            GridlineStyleTop =0
-            GridlineStyleRight =0
-            GridlineStyleBottom =0
-            GridlineWidthLeft =1
-            GridlineWidthTop =1
-            GridlineWidthRight =1
-            GridlineWidthBottom =1
             LabelX =-1800
             AddColon =0
         End
@@ -702,18 +484,6 @@ Begin Form
                     Height =630
                     Name ="Auto_Logo0"
                     Picture ="assetsLogo.bmp"
-                    LeftPadding =30
-                    TopPadding =30
-                    RightPadding =30
-                    BottomPadding =30
-                    GridlineStyleLeft =0
-                    GridlineStyleTop =0
-                    GridlineStyleRight =0
-                    GridlineStyleBottom =0
-                    GridlineWidthLeft =1
-                    GridlineWidthTop =1
-                    GridlineWidthRight =1
-                    GridlineWidthBottom =1
                     ImageData = Begin
                         0x89504e470d0a1a0a0000000d49484452000000360000002a0806000000f851a8 ,
                         0x3d0000000467414d410000afc837058ae90000001974455874536f6674776172 ,
@@ -853,6 +623,7 @@ Begin Form
                     Caption ="&New Faculty"
                     Tag ="NewItemPopup~FormName=Faculty Details~SourceID=ID"
                     UnicodeAccessKey =78
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -909,18 +680,10 @@ Begin Form
                     LayoutCachedTop =690
                     LayoutCachedWidth =1365
                     LayoutCachedHeight =1035
-                    UnknownProp = {303 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {347 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
-                    UnknownProp = {356 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {358 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
+                    LayoutGroup =1
+                    GroupTable =28
+                    WebImagePaddingLeft =2
+                    WebImagePaddingRight =2
                 End
                 Begin CommandButton
                     OverlapFlags =85
@@ -934,6 +697,7 @@ Begin Form
                     Caption ="Add From &Outlook"
                     Tag ="AddFromOutlook"
                     UnicodeAccessKey =79
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -969,24 +733,12 @@ Begin Form
                     LayoutCachedTop =690
                     LayoutCachedWidth =5085
                     LayoutCachedHeight =1035
-                    UnknownProp = {301 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {302 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {303 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {347 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
-                    UnknownProp = {356 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {358 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
+                    ColumnStart =2
+                    ColumnEnd =2
+                    LayoutGroup =1
+                    GroupTable =28
+                    WebImagePaddingLeft =2
+                    WebImagePaddingRight =2
                 End
                 Begin CommandButton
                     OverlapFlags =85
@@ -1000,6 +752,7 @@ Begin Form
                     Caption ="&E-mail List"
                     Tag ="EmailCurrentForm"
                     UnicodeAccessKey =69
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -1043,24 +796,12 @@ Begin Form
                     LayoutCachedTop =690
                     LayoutCachedWidth =6135
                     LayoutCachedHeight =1035
-                    UnknownProp = {301 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {302 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {303 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {347 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
-                    UnknownProp = {356 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {358 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
+                    ColumnStart =3
+                    ColumnEnd =3
+                    LayoutGroup =1
+                    GroupTable =28
+                    WebImagePaddingLeft =2
+                    WebImagePaddingRight =2
                 End
                 Begin CommandButton
                     OverlapFlags =85
@@ -1076,6 +817,7 @@ Begin Form
                     Caption ="Collect Data &via E-mail"
                     Tag ="DataCollectionForQuery~QueryName=[Faculty Extended]"
                     UnicodeAccessKey =118
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -1124,24 +866,12 @@ Begin Form
                     LayoutCachedTop =690
                     LayoutCachedWidth =3375
                     LayoutCachedHeight =1035
-                    UnknownProp = {301 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {302 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {303 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {347 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
-                    UnknownProp = {356 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {358 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =1
+                    GroupTable =28
+                    WebImagePaddingLeft =2
+                    WebImagePaddingRight =2
                 End
                 Begin ComboBox
                     LimitToList = NotDefault
@@ -1159,6 +889,7 @@ Begin Form
                         "Subreport*\") AND ((MSysObjects.Type)=-32764)) ORDER BY MSysObjects.Name; "
                     ColumnWidths ="1445"
                     Tag ="NavigateToReport"
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -1229,18 +960,10 @@ Begin Form
                     LayoutCachedTop =690
                     LayoutCachedWidth =8475
                     LayoutCachedHeight =1035
-                    UnknownProp = {318 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {319 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {320 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {337 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    ColumnStart =5
+                    ColumnEnd =5
+                    LayoutGroup =1
+                    GroupTable =28
                 End
                 Begin Label
                     OverlapFlags =85
@@ -1256,6 +979,7 @@ Begin Form
                     BottomMargin =45
                     Name ="LblReports"
                     Caption ="&Reports"
+                    GroupTable =28
                     TopPadding =0
                     BottomPadding =8
                     GridlineColor =-2147483609
@@ -1264,18 +988,10 @@ Begin Form
                     LayoutCachedTop =690
                     LayoutCachedWidth =6975
                     LayoutCachedHeight =1035
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    ColumnStart =4
+                    ColumnEnd =4
+                    LayoutGroup =1
+                    GroupTable =28
                 End
             End
         End
@@ -1301,6 +1017,7 @@ Begin Form
                     StatusBarText ="Double-click to go to details"
                     Tag ="DrillToDetails~FormName=Faculty Details~SourceID=ID"
                     EventProcPrefix ="Last_Name"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -1376,24 +1093,12 @@ Begin Form
                     LayoutCachedTop =1425
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =1740
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =3
+                    RowEnd =3
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -1409,6 +1114,7 @@ Begin Form
                             Caption ="Last Name"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Last_Name_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -1416,18 +1122,10 @@ Begin Form
                             LayoutCachedTop =1425
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =1740
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x03000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x03000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =3
+                            RowEnd =3
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -1445,6 +1143,7 @@ Begin Form
                     StatusBarText ="Double-click to go to details"
                     Tag ="DrillToDetails~FormName=Faculty Details~SourceID=ID"
                     EventProcPrefix ="First_Name"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -1521,24 +1220,12 @@ Begin Form
                     LayoutCachedTop =1050
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =1365
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =2
+                    RowEnd =2
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -1554,6 +1241,7 @@ Begin Form
                             Caption ="First Name"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="First_Name_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -1561,18 +1249,10 @@ Begin Form
                             LayoutCachedTop =1050
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =1365
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =2
+                            RowEnd =2
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -1589,6 +1269,7 @@ Begin Form
                     Name ="Job Title"
                     ControlSource ="Job Title"
                     EventProcPrefix ="Job_Title"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -1598,24 +1279,12 @@ Begin Form
                     LayoutCachedTop =3300
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =3615
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x08000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x08000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =8
+                    RowEnd =8
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -1631,6 +1300,7 @@ Begin Form
                             Caption ="Job Title"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Job_Title_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -1638,18 +1308,10 @@ Begin Form
                             LayoutCachedTop =3300
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =3615
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x08000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x08000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =8
+                            RowEnd =8
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -1666,6 +1328,7 @@ Begin Form
                     ControlSource ="E-mail Address"
                     Tag ="EmailField"
                     EventProcPrefix ="E_mail_Address"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -1711,24 +1374,12 @@ Begin Form
                     LayoutCachedTop =1800
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =2115
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =4
+                    RowEnd =4
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -1744,6 +1395,7 @@ Begin Form
                             Caption ="E-mail Address"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="E_mail_Address_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -1751,18 +1403,10 @@ Begin Form
                             LayoutCachedTop =1800
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =2115
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x04000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x04000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =4
+                            RowEnd =4
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -1779,6 +1423,7 @@ Begin Form
                     Name ="Business Phone"
                     ControlSource ="Business Phone"
                     EventProcPrefix ="Business_Phone"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -1788,24 +1433,12 @@ Begin Form
                     LayoutCachedTop =2175
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =2490
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =5
+                    RowEnd =5
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -1821,6 +1454,7 @@ Begin Form
                             Caption ="Business Phone"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Business_Phone_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -1828,18 +1462,10 @@ Begin Form
                             LayoutCachedTop =2175
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =2490
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x05000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x05000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =5
+                            RowEnd =5
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -1856,6 +1482,7 @@ Begin Form
                     Name ="Home Phone"
                     ControlSource ="Home Phone"
                     EventProcPrefix ="Home_Phone"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -1866,24 +1493,12 @@ Begin Form
                     LayoutCachedTop =5010
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =5325
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x0a000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x0a000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =10
+                    RowEnd =10
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -1899,6 +1514,7 @@ Begin Form
                             Caption ="Home Phone"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Home_Phone_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -1907,18 +1523,10 @@ Begin Form
                             LayoutCachedTop =5010
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =5325
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x0a000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x0a000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =10
+                            RowEnd =10
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -1935,6 +1543,7 @@ Begin Form
                     Name ="Mobile Phone"
                     ControlSource ="Mobile Phone"
                     EventProcPrefix ="Mobile_Phone"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -1945,24 +1554,12 @@ Begin Form
                     LayoutCachedTop =5385
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =5700
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x0b000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x0b000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =11
+                    RowEnd =11
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -1978,6 +1575,7 @@ Begin Form
                             Caption ="Mobile Phone"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Mobile_Phone_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -1986,18 +1584,10 @@ Begin Form
                             LayoutCachedTop =5385
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =5700
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x0b000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x0b000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =11
+                            RowEnd =11
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2014,6 +1604,7 @@ Begin Form
                     Name ="Fax Number"
                     ControlSource ="Fax Number"
                     EventProcPrefix ="Fax_Number"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -2024,24 +1615,12 @@ Begin Form
                     LayoutCachedTop =5760
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =6075
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x0c000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x0c000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =12
+                    RowEnd =12
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2057,6 +1636,7 @@ Begin Form
                             Caption ="Fax Number"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Fax_Number_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -2065,18 +1645,10 @@ Begin Form
                             LayoutCachedTop =5760
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =6075
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x0c000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x0c000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =12
+                            RowEnd =12
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2093,6 +1665,7 @@ Begin Form
                     TabIndex =9
                     Name ="Notes"
                     ControlSource ="Notes"
+                    GroupTable =29
                     RightPadding =38
                     BottomPadding =38
                     TextFormat =1
@@ -2103,24 +1676,12 @@ Begin Form
                     LayoutCachedTop =3690
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =4935
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x09000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x09000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =9
+                    RowEnd =9
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2135,6 +1696,7 @@ Begin Form
                             Name ="Notes_Label"
                             Caption ="Notes"
                             Tag =";RegenerateCaption;"
+                            GroupTable =29
                             BottomPadding =38
                             HorizontalAnchor =1
                             VerticalAnchor =2
@@ -2142,18 +1704,10 @@ Begin Form
                             LayoutCachedTop =3690
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =4935
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x09000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x09000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =9
+                            RowEnd =9
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2170,6 +1724,7 @@ Begin Form
                     TabIndex =13
                     Name ="Address"
                     ControlSource ="Address"
+                    GroupTable =29
                     RightPadding =38
                     BottomPadding =38
                     HorizontalAnchor =1
@@ -2179,24 +1734,12 @@ Begin Form
                     LayoutCachedTop =6150
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =6750
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x0d000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x0d000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =13
+                    RowEnd =13
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2211,6 +1754,7 @@ Begin Form
                             Name ="Address_Label"
                             Caption ="Address"
                             Tag =";RegenerateCaption;"
+                            GroupTable =29
                             BottomPadding =38
                             HorizontalAnchor =1
                             VerticalAnchor =1
@@ -2218,18 +1762,10 @@ Begin Form
                             LayoutCachedTop =6150
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =6750
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x0d000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x0d000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =13
+                            RowEnd =13
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2244,6 +1780,7 @@ Begin Form
                     TabIndex =16
                     Name ="City"
                     ControlSource ="City"
+                    GroupTable =29
                     RightPadding =38
                     BottomPadding =38
                     HorizontalAnchor =1
@@ -2253,24 +1790,12 @@ Begin Form
                     LayoutCachedTop =7605
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =7920
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x10000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x10000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =16
+                    RowEnd =16
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2285,6 +1810,7 @@ Begin Form
                             Name ="City_Label"
                             Caption ="City"
                             Tag =";RegenerateCaption;"
+                            GroupTable =29
                             BottomPadding =38
                             HorizontalAnchor =1
                             VerticalAnchor =1
@@ -2292,18 +1818,10 @@ Begin Form
                             LayoutCachedTop =7605
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =7920
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x10000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x10000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =16
+                            RowEnd =16
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2319,6 +1837,7 @@ Begin Form
                     Name ="State/Province"
                     ControlSource ="State/Province"
                     EventProcPrefix ="State_Province"
+                    GroupTable =29
                     RightPadding =38
                     BottomPadding =38
                     HorizontalAnchor =1
@@ -2328,24 +1847,12 @@ Begin Form
                     LayoutCachedTop =7215
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =7530
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x0f000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x0f000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =15
+                    RowEnd =15
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2361,6 +1868,7 @@ Begin Form
                             Caption ="State/Province"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="State_Province_Label"
+                            GroupTable =29
                             BottomPadding =38
                             HorizontalAnchor =1
                             VerticalAnchor =1
@@ -2368,18 +1876,10 @@ Begin Form
                             LayoutCachedTop =7215
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =7530
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x0f000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x0f000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =15
+                            RowEnd =15
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2396,6 +1896,7 @@ Begin Form
                     Name ="ZIP/Postal Code"
                     ControlSource ="ZIP/Postal Code"
                     EventProcPrefix ="ZIP_Postal_Code"
+                    GroupTable =29
                     RightPadding =38
                     BottomPadding =38
                     HorizontalAnchor =1
@@ -2405,24 +1906,12 @@ Begin Form
                     LayoutCachedTop =6825
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =7140
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x0e000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x0e000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =14
+                    RowEnd =14
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2438,6 +1927,7 @@ Begin Form
                             Caption ="Zip/Postal Code"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="ZIP_Postal_Code_Label"
+                            GroupTable =29
                             BottomPadding =38
                             HorizontalAnchor =1
                             VerticalAnchor =1
@@ -2445,18 +1935,10 @@ Begin Form
                             LayoutCachedTop =6825
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =7140
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x0e000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x0e000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =14
+                            RowEnd =14
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2473,6 +1955,7 @@ Begin Form
                     Name ="Country/Region"
                     ControlSource ="Country/Region"
                     EventProcPrefix ="Country_Region"
+                    GroupTable =29
                     RightPadding =38
                     BottomPadding =38
                     HorizontalAnchor =1
@@ -2482,24 +1965,12 @@ Begin Form
                     LayoutCachedTop =7995
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =8310
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x11000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x11000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =17
+                    RowEnd =17
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2515,6 +1986,7 @@ Begin Form
                             Caption ="Country/Region"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Country_Region_Label"
+                            GroupTable =29
                             BottomPadding =38
                             HorizontalAnchor =1
                             VerticalAnchor =1
@@ -2522,18 +1994,10 @@ Begin Form
                             LayoutCachedTop =7995
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =8310
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x11000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x11000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =17
+                            RowEnd =17
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2555,6 +2019,7 @@ Begin Form
                     RowSourceType ="Value List"
                     RowSource ="\"English\";\"Physics\";\"Mathematics\";\"Science\";\"Physical Education\""
                     ColumnWidths ="1440"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -2566,24 +2031,12 @@ Begin Form
                     LayoutCachedTop =2550
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =2865
-                    UnknownProp = {316 ,0 ,0 ,0 ,4 } Begin
-                        0x06000000
-                    End
-                    UnknownProp = {317 ,0 ,0 ,0 ,4 } Begin
-                        0x06000000
-                    End
-                    UnknownProp = {318 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {319 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {320 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {337 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =6
+                    RowEnd =6
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2598,6 +2051,7 @@ Begin Form
                             Name ="Department_Label"
                             Caption ="Department"
                             Tag =";RegenerateCaption;"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -2605,18 +2059,10 @@ Begin Form
                             LayoutCachedTop =2550
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =2865
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x06000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x06000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =6
+                            RowEnd =6
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2640,6 +2086,7 @@ Begin Form
                         "ant\";\"Principal\";\"Vice Principal\";\"Other Administrative\""
                     ColumnWidths ="1440"
                     EventProcPrefix ="Faculty_Type"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -2651,24 +2098,12 @@ Begin Form
                     LayoutCachedTop =2925
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =3240
-                    UnknownProp = {316 ,0 ,0 ,0 ,4 } Begin
-                        0x07000000
-                    End
-                    UnknownProp = {317 ,0 ,0 ,0 ,4 } Begin
-                        0x07000000
-                    End
-                    UnknownProp = {318 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {319 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {320 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {337 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =7
+                    RowEnd =7
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -2684,6 +2119,7 @@ Begin Form
                             Caption ="Faculty Type"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Faculty_Type_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -2691,18 +2127,10 @@ Begin Form
                             LayoutCachedTop =2925
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =3240
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x07000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x07000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =7
+                            RowEnd =7
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -2718,6 +2146,7 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cmdNewFaculty_LayoutLabel"
                     Tag =";DoNotResize;"
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -2725,18 +2154,10 @@ Begin Form
                     LayoutCachedLeft =240
                     LayoutCachedWidth =1365
                     LayoutCachedHeight =60
-                    UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    LayoutGroup =1
+                    GroupTable =28
                 End
                 Begin Label
                     Visible = NotDefault
@@ -2750,6 +2171,7 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cmdAddFromOutlook_LayoutLabel"
                     Tag =";DoNotResize;"
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -2757,24 +2179,12 @@ Begin Form
                     LayoutCachedLeft =3450
                     LayoutCachedWidth =5085
                     LayoutCachedHeight =60
-                    UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =2
+                    ColumnEnd =2
+                    LayoutGroup =1
+                    GroupTable =28
                 End
                 Begin Label
                     Visible = NotDefault
@@ -2788,6 +2198,7 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cmdEmailList_LayoutLabel"
                     Tag =";DoNotResize;"
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -2795,24 +2206,12 @@ Begin Form
                     LayoutCachedLeft =5160
                     LayoutCachedWidth =6135
                     LayoutCachedHeight =60
-                    UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =3
+                    ColumnEnd =3
+                    LayoutGroup =1
+                    GroupTable =28
                 End
                 Begin Label
                     Visible = NotDefault
@@ -2824,6 +2223,7 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cmdCollectDataviaEmail_LayoutLabel"
                     Tag =";DoNotResize;"
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -2831,24 +2231,12 @@ Begin Form
                     LayoutCachedLeft =1440
                     LayoutCachedWidth =3375
                     LayoutCachedHeight =60
-                    UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =1
+                    GroupTable =28
                 End
                 Begin TextBox
                     FontUnderline = NotDefault
@@ -2866,6 +2254,7 @@ Begin Form
                     ControlSource ="ID"
                     BeforeUpdate ="[Event Procedure]"
                     Tag ="HyperlinkToDetails~FormName=Faculty Details~SourceID=ID"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -2980,18 +2369,10 @@ Begin Form
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =615
                     DisplayAsHyperlink =2
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -3006,6 +2387,7 @@ Begin Form
                             Name ="ID_Label"
                             Caption ="ID"
                             Tag =";RegenerateCaption;"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -3013,12 +2395,8 @@ Begin Form
                             LayoutCachedTop =300
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =615
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -3034,6 +2412,7 @@ Begin Form
                     Name ="Faculty ID"
                     ControlSource ="Faculty ID"
                     EventProcPrefix ="Faculty_ID"
+                    GroupTable =29
                     TopPadding =23
                     RightPadding =38
                     BottomPadding =31
@@ -3043,24 +2422,12 @@ Begin Form
                     LayoutCachedTop =675
                     LayoutCachedWidth =6255
                     LayoutCachedHeight =990
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x1d000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =29
                     Begin
                         Begin Label
                             OverlapFlags =85
@@ -3076,6 +2443,7 @@ Begin Form
                             Caption ="Faculty ID"
                             Tag =";RegenerateCaption;"
                             EventProcPrefix ="Faculty_ID_Label"
+                            GroupTable =29
                             TopPadding =23
                             BottomPadding =31
                             HorizontalAnchor =1
@@ -3083,18 +2451,10 @@ Begin Form
                             LayoutCachedTop =675
                             LayoutCachedWidth =2355
                             LayoutCachedHeight =990
-                            UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                                0x01000000
-                            End
-                            UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                                0x01000000
-                            End
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x1d000000
-                            End
+                            RowStart =1
+                            RowEnd =1
+                            LayoutGroup =2
+                            GroupTable =29
                         End
                     End
                 End
@@ -3110,30 +2470,19 @@ Begin Form
                     BackColor =-2147483613
                     Name ="LblReports_LayoutLabel"
                     Tag =";DoNotResize;"
+                    GroupTable =28
                     TopPadding =0
                     BottomPadding =0
                     GridlineColor =-2147483609
                     LayoutCachedLeft =6210
                     LayoutCachedWidth =6975
                     LayoutCachedHeight =60
-                    UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =4
+                    ColumnEnd =4
+                    LayoutGroup =1
+                    GroupTable =28
                 End
                 Begin Label
                     Visible = NotDefault
@@ -3147,6 +2496,7 @@ Begin Form
                     BackColor =-2147483613
                     Name ="CboReports_LayoutLabel"
                     Tag =";DoNotResize;"
+                    GroupTable =28
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -3154,24 +2504,12 @@ Begin Form
                     LayoutCachedLeft =7035
                     LayoutCachedWidth =8475
                     LayoutCachedHeight =60
-                    UnknownProp = {286 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {287 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x1c000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =5
+                    ColumnEnd =5
+                    LayoutGroup =1
+                    GroupTable =28
                 End
             End
         End
@@ -3192,4 +2530,6 @@ Option Compare Database
 Private Sub ID_BeforeUpdate(Cancel As Integer)
 Dim txtTest As Integer
 txtTest = 1
+Dim x As String
+x = "Test 1"
 End Sub

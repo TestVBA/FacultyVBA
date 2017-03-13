@@ -32,68 +32,6 @@ Begin Report
     DisplayOnSharePointSite =1
     DatasheetGridlinesColor12 =-2147483632
     DatasheetForeColor12 =-2147483640
-    UnknownProp = {419 ,0 ,0 ,0 ,1712 } Begin
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x01040306dc00d40553ff000002000100ea0a6f08640001000f00580201000200 ,
-        0x5802030001004c00650074007400650072000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000010000000000000001000000 ,
-        0x0200000001000000000000000000000000000000000000000000000050524956 ,
-        0xe220000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000180000000000102710271027 ,
-        0x000010270000000000000000b000a40300000000000000000000000000000000 ,
-        0x00000000000000000300000000000000300210005c4b03006843040000000000 ,
-        0x00000000000000000000000000000000000000000000000046469ff205000000 ,
-        0x04000000ff00ff00010000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0100000000000000000000000000000000000000000000000000000000000000 ,
-        0x00000000000000000000000000000000b0000000534d544a000000001000a000 ,
-        0x410064006f00620065002000500044004600200043006f006e00760065007200 ,
-        0x74006500720000005265736f6c7574696f6e0031323030647069005061676553 ,
-        0x697a65004c65747465720050616765526567696f6e00004c656164696e674564 ,
-        0x67650000496e707574536c6f74004f6e6c794f6e650000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x3002000045424441000001000100000001000000010000000100000000000000 ,
-        0x5300740061006e00640061007200640000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x00000000000000000000000001000000
-    End
-    UnknownProp = {420 ,0 ,0 ,0 ,100 } Begin
-        0x0400180022000100000000000000000000000000000000000000000000000000 ,
-        0x0000000000000000000000000000000000000000000000000000000000000000 ,
-        0x0000000044006f00630075006d0065006e00740073005c002a002e0070006400 ,
-        0x66000000
-    End
     Begin
         Begin Label
             BackStyle =0
@@ -110,9 +48,7 @@ Begin Report
             FontWeight =400
             ForeColor =-2147483630
             FontName ="Segoe UI"
-            UnknownProp = {324 ,0 ,0 ,0 ,1 } Begin
-                0x00
-            End
+            BorderLineStyle =0
         End
         Begin OptionButton
             SpecialEffect =2
@@ -177,17 +113,13 @@ Begin Report
             FontWeight =400
             ForeColor =-2147483630
             FontName ="Segoe UI"
-            UnknownProp = {321 ,0 ,0 ,0 ,1 } Begin
-                0x00
-            End
+            BorderLineStyle =0
         End
         Begin Tab
             TextFontFamily =0
             FontSize =9
             FontName ="Segoe UI"
-            UnknownProp = {311 ,0 ,0 ,0 ,1 } Begin
-                0x00
-            End
+            BorderLineStyle =0
         End
         Begin Attachment
             BackStyle =0
@@ -305,12 +237,8 @@ Begin Report
                     GridlineColor =16777215
                     LayoutCachedWidth =3365
                     LayoutCachedHeight =285
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin Label
                     Left =3360
@@ -331,18 +259,10 @@ Begin Report
                     LayoutCachedLeft =3360
                     LayoutCachedWidth =5385
                     LayoutCachedHeight =285
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin Label
                     Left =5385
@@ -363,18 +283,10 @@ Begin Report
                     LayoutCachedLeft =5385
                     LayoutCachedWidth =7080
                     LayoutCachedHeight =285
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    ColumnStart =2
+                    ColumnEnd =2
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin Label
                     Left =7080
@@ -396,18 +308,10 @@ Begin Report
                     LayoutCachedLeft =7080
                     LayoutCachedWidth =9615
                     LayoutCachedHeight =285
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    ColumnStart =3
+                    ColumnEnd =3
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin Label
                     Left =9615
@@ -429,18 +333,10 @@ Begin Report
                     LayoutCachedLeft =9615
                     LayoutCachedWidth =12405
                     LayoutCachedHeight =285
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    ColumnStart =4
+                    ColumnEnd =4
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin Label
                     Left =12405
@@ -462,18 +358,10 @@ Begin Report
                     LayoutCachedLeft =12405
                     LayoutCachedWidth =14325
                     LayoutCachedHeight =285
-                    UnknownProp = {288 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {289 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    ColumnStart =5
+                    ColumnEnd =5
+                    LayoutGroup =1
+                    GroupTable =4
                 End
             End
         End
@@ -584,18 +472,10 @@ Begin Report
                     LayoutCachedWidth =3365
                     LayoutCachedHeight =315
                     DisplayAsHyperlink =2
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin TextBox
                     TextAlign =0
@@ -618,24 +498,12 @@ Begin Report
                     LayoutCachedTop =30
                     LayoutCachedWidth =7080
                     LayoutCachedHeight =315
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =2
+                    ColumnEnd =2
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin TextBox
                     TextAlign =0
@@ -659,24 +527,12 @@ Begin Report
                     LayoutCachedTop =30
                     LayoutCachedWidth =9615
                     LayoutCachedHeight =315
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =3
+                    ColumnEnd =3
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin TextBox
                     FontUnderline = NotDefault
@@ -742,24 +598,12 @@ Begin Report
                     LayoutCachedWidth =12405
                     LayoutCachedHeight =315
                     DisplayAsHyperlink =2
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =4
+                    ColumnEnd =4
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin TextBox
                     TextAlign =0
@@ -784,24 +628,12 @@ Begin Report
                     LayoutCachedTop =30
                     LayoutCachedWidth =14325
                     LayoutCachedHeight =315
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =5
+                    ColumnEnd =5
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin TextBox
                     TextAlign =0
@@ -824,24 +656,12 @@ Begin Report
                     LayoutCachedTop =30
                     LayoutCachedWidth =5385
                     LayoutCachedHeight =315
-                    UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {309 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x04000000
-                    End
+                    RowStart =1
+                    RowEnd =1
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =1
+                    GroupTable =4
                 End
                 Begin TextBox
                     Visible = NotDefault
@@ -885,18 +705,10 @@ Begin Report
                     LayoutCachedTop =60
                     LayoutCachedWidth =4470
                     LayoutCachedHeight =391
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x02000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x05000000
-                    End
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =2
+                    GroupTable =5
                     Begin
                         Begin Label
                             Left =300
@@ -916,12 +728,8 @@ Begin Report
                             LayoutCachedTop =60
                             LayoutCachedWidth =1111
                             LayoutCachedHeight =391
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x02000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x05000000
-                            End
+                            LayoutGroup =2
+                            GroupTable =5
                         End
                     End
                 End
@@ -979,18 +787,10 @@ Begin Report
                     LayoutCachedTop =60
                     LayoutCachedWidth =4500
                     LayoutCachedHeight =391
-                    UnknownProp = {310 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {311 ,0 ,0 ,0 ,4 } Begin
-                        0x01000000
-                    End
-                    UnknownProp = {312 ,0 ,0 ,0 ,4 } Begin
-                        0x03000000
-                    End
-                    UnknownProp = {330 ,0 ,0 ,0 ,4 } Begin
-                        0x06000000
-                    End
+                    ColumnStart =1
+                    ColumnEnd =1
+                    LayoutGroup =3
+                    GroupTable =6
                     Begin
                         Begin Label
                             TextFontCharSet =204
@@ -1012,12 +812,8 @@ Begin Report
                             LayoutCachedTop =60
                             LayoutCachedWidth =1081
                             LayoutCachedHeight =391
-                            UnknownProp = {290 ,0 ,0 ,0 ,4 } Begin
-                                0x03000000
-                            End
-                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
-                                0x06000000
-                            End
+                            LayoutGroup =3
+                            GroupTable =6
                         End
                     End
                 End

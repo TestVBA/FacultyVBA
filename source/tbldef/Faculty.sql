@@ -1,5 +1,5 @@
 CREATE TABLE [Faculty] (
-  [ID] AUTOINCREMENT CONSTRAINT [PrimaryKey] PRIMARY KEY  UNIQUE  NOT NULL ,
+  [ID] AUTOINCREMENT CONSTRAINT [Index_E941E8CA_2D5A_46B5] UNIQUE  CONSTRAINT [PrimaryKey] PRIMARY KEY  UNIQUE  NOT NULL ,
   [Company] VARCHAR (50),
   [Last Name] VARCHAR (50),
   [First Name] VARCHAR (50),
@@ -27,7 +27,7 @@ CREATE TABLE [Faculty] (
   [Country/Region] VARCHAR (50),
   [Web Page] LONGTEXT ,
   [Notes] LONGTEXT ,
-  [Attachments] VARCHAR ,
+  [Attachments] VARCHAR (255),
   [Physician Name] VARCHAR (50),
   [Physician Phone Number] VARCHAR (50),
   [Allergies] VARCHAR (100),
