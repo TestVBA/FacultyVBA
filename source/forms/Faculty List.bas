@@ -3192,4 +3192,6 @@ Option Compare Database
 Private Sub ID_BeforeUpdate(Cancel As Integer)
 Dim txtTest As Integer
 txtTest = 1
+Dim b As String
+b = "Test 2"
 End Sub
