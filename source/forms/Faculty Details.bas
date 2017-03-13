@@ -99,7 +99,9 @@ Begin Form
             Argument ="Space"
         End
     End
+    DatasheetBackColor12 =16777215
     ShowPageMargins =0
+    DisplayOnSharePointSite =0
     DatasheetAlternateBackColor =-2147483610
     ImageData = Begin
         0x89504e470d0a1a0a0000000d4948445200000329000000480806000000f22aba ,
@@ -421,14 +423,34 @@ Begin Form
             FontSize =9
             ForeColor =-2147483615
             FontName ="Segoe UI"
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin Rectangle
             SpecialEffect =3
             BackStyle =0
-            BorderLineStyle =0
-        End
-        Begin Image
-            BorderLineStyle =0
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin CommandButton
             AddColon = NotDefault
@@ -437,56 +459,163 @@ Begin Form
             FontWeight =400
             ForeColor =-2147483615
             FontName ="Segoe UI"
+<<<<<<< HEAD
             BorderLineStyle =0
+=======
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
+            UnknownProp = {324 ,0 ,0 ,0 ,1 } Begin
+                0x00
+            End
+>>>>>>> origin/master
         End
         Begin OptionButton
             AddColon = NotDefault
             SpecialEffect =2
-            BorderLineStyle =0
             LabelX =230
             LabelY =-30
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin CheckBox
             AddColon = NotDefault
             SpecialEffect =2
-            BorderLineStyle =0
             LabelX =230
             LabelY =-30
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin OptionGroup
             SpecialEffect =3
-            BorderLineStyle =0
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin BoundObjectFrame
             SpecialEffect =2
-            BorderLineStyle =0
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin TextBox
             FELineBreak = NotDefault
             SpecialEffect =2
             TextFontCharSet =204
-            BorderLineStyle =0
             FontSize =11
             FontName ="Calibri"
             AsianLineBreak =255
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
+            ShowDatePicker =1
         End
         Begin ListBox
             SpecialEffect =2
             TextFontCharSet =204
-            BorderLineStyle =0
             FontSize =11
             FontName ="Calibri"
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin ComboBox
             SpecialEffect =2
             TextFontCharSet =204
-            BorderLineStyle =0
             FontSize =11
             FontName ="Calibri"
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin Subform
-            BorderLineStyle =0
             BorderColor =-2147483609
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin ToggleButton
             AddColon = NotDefault
@@ -495,18 +624,65 @@ Begin Form
             FontWeight =400
             ForeColor =-2147483630
             FontName ="Segoe UI"
+<<<<<<< HEAD
             BorderLineStyle =0
+=======
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
+            UnknownProp = {321 ,0 ,0 ,0 ,1 } Begin
+                0x00
+            End
+>>>>>>> origin/master
         End
         Begin Tab
             TextFontFamily =0
             FontSize =9
             FontName ="Segoe UI"
+<<<<<<< HEAD
             BorderLineStyle =0
+=======
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
+            UnknownProp = {311 ,0 ,0 ,0 ,1 } Begin
+                0x00
+            End
+>>>>>>> origin/master
         End
         Begin Attachment
             BackStyle =0
             OldBorderStyle =0
-            BorderLineStyle =0
+            LeftPadding =30
+            TopPadding =30
+            RightPadding =30
+            BottomPadding =30
+            GridlineStyleLeft =0
+            GridlineStyleTop =0
+            GridlineStyleRight =0
+            GridlineStyleBottom =0
+            GridlineWidthLeft =1
+            GridlineWidthTop =1
+            GridlineWidthRight =1
+            GridlineWidthBottom =1
         End
         Begin FormHeader
             Height =1095
@@ -546,7 +722,7 @@ Begin Form
                     Height =630
                     Name ="Auto_Logo0"
                     PictureData = Begin
-                        0x0e00000000000000010000006c00000000000000000000002e00000024000000 ,
+                        0x0e0000004c0e463e010000006c00000000000000000000002e00000024000000 ,
                         0x0000000000000000940500005704000020454d4600000100dc3b000012000000 ,
                         0x0100000000000000000000000000000000050000000400008301000036010000 ,
                         0x000000000000000000000000b8e70500f0ba040046000000601d0000521d0000 ,
@@ -1028,6 +1204,18 @@ Begin Form
                         0x14000000
                     End
                     Picture ="logo_assets.png"
+                    LeftPadding =30
+                    TopPadding =30
+                    RightPadding =30
+                    BottomPadding =30
+                    GridlineStyleLeft =0
+                    GridlineStyleTop =0
+                    GridlineStyleRight =0
+                    GridlineStyleBottom =0
+                    GridlineWidthLeft =1
+                    GridlineWidthTop =1
+                    GridlineWidthRight =1
+                    GridlineWidthBottom =1
                     ImageData = Begin
                         0x89504e470d0a1a0a0000000d49484452000000360000002a0806000000f851a8 ,
                         0x3d0000000467414d410000afc837058ae90000001974455874536f6674776172 ,
@@ -1169,7 +1357,6 @@ Begin Form
                     Tag ="GoToRecord~TableOrQueryName=[Faculty Extended]~SourceID=ID~Column1=Contact Name~"
                         "Column2=E-mail Address~Column3=Business Phone"
                     UnicodeAccessKey =71
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -1334,7 +1521,6 @@ Begin Form
                             Caption ="&Go to"
                             Tag ="DoNotRename"
                             EventProcPrefix ="Go_to_Contact_Label"
-                            GroupTable =3
                             TopPadding =0
                             BottomPadding =8
                             GridlineColor =-2147483609
@@ -1359,7 +1545,6 @@ Begin Form
                     Caption ="&E-mail"
                     Tag ="SendEmailForContact~ToContactNameField=Contact Name"
                     UnicodeAccessKey =69
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -1435,7 +1620,6 @@ Begin Form
                     Caption ="Create &Outlook Contact"
                     Tag ="CreateOutlookContact"
                     UnicodeAccessKey =79
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -1499,7 +1683,6 @@ Begin Form
                     Caption ="&Save and New"
                     Tag ="SaveAndNew~DefaultControl=First Name"
                     UnicodeAccessKey =83
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =8
@@ -1665,17 +1848,44 @@ Begin Form
 
                     Begin
                         Begin Page
-                            OverlapFlags =87
+                            OverlapFlags =215
                             Left =435
                             Top =765
                             Width =11744
                             Height =7095
                             Name ="General_Page"
                             Caption ="General"
+<<<<<<< HEAD
                             WebImagePaddingLeft =2
                             WebImagePaddingTop =2
                             WebImagePaddingRight =2
                             WebImagePaddingBottom =2
+=======
+                            LeftPadding =30
+                            TopPadding =30
+                            RightPadding =30
+                            BottomPadding =30
+                            GridlineStyleLeft =0
+                            GridlineStyleTop =0
+                            GridlineStyleRight =0
+                            GridlineStyleBottom =0
+                            GridlineWidthLeft =1
+                            GridlineWidthTop =1
+                            GridlineWidthRight =1
+                            GridlineWidthBottom =1
+                            UnknownProp = {305 ,0 ,0 ,0 ,4 } Begin
+                                0x02000000
+                            End
+                            UnknownProp = {306 ,0 ,0 ,0 ,4 } Begin
+                                0x02000000
+                            End
+                            UnknownProp = {307 ,0 ,0 ,0 ,4 } Begin
+                                0x02000000
+                            End
+                            UnknownProp = {308 ,0 ,0 ,0 ,4 } Begin
+                                0x02000000
+                            End
+>>>>>>> origin/master
                             Begin
                                 Begin TextBox
                                     OverlapFlags =215
@@ -1687,7 +1897,6 @@ Begin Form
                                     Name ="First Name"
                                     ControlSource ="First Name"
                                     EventProcPrefix ="First_Name"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -1713,7 +1922,6 @@ Begin Form
                                             Caption ="First Name"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="First_Name_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -1735,7 +1943,6 @@ Begin Form
                                     Name ="Last Name"
                                     ControlSource ="Last Name"
                                     EventProcPrefix ="Last_Name"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -1763,7 +1970,6 @@ Begin Form
                                             Caption ="Last Name"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Last_Name_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -1789,7 +1995,6 @@ Begin Form
                                     Tag ="EmailField"
                                     EventProcPrefix ="E_mail_Address"
                                     SmartTags ="\"urn:schemas-microsoft-com:office:smarttags#PersonName\""
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -1855,7 +2060,6 @@ Begin Form
                                             Caption ="E-mail Address"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="E_mail_Address_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -1885,7 +2089,6 @@ Begin Form
                                     ControlSource ="Web Page"
                                     Tag ="HyperlinkField"
                                     EventProcPrefix ="Web_Page"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
 
@@ -1914,7 +2117,6 @@ Begin Form
                                             Caption ="Web Page"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Web_Page_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             LayoutCachedLeft =540
                                             LayoutCachedTop =2055
@@ -1938,7 +2140,6 @@ Begin Form
                                     Name ="Business Phone"
                                     ControlSource ="Business Phone"
                                     EventProcPrefix ="Business_Phone"
-                                    GroupTable =1
                                     TopPadding =22
                                     RightPadding =38
                                     BottomPadding =31
@@ -1968,7 +2169,6 @@ Begin Form
                                             Caption ="Business Phone"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Business_Phone_Label"
-                                            GroupTable =1
                                             TopPadding =22
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -1993,7 +2193,6 @@ Begin Form
                                     Name ="Home Phone"
                                     ControlSource ="Home Phone"
                                     EventProcPrefix ="Home_Phone"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -2023,7 +2222,6 @@ Begin Form
                                             Caption ="Home Phone"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Home_Phone_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -2048,7 +2246,6 @@ Begin Form
                                     Name ="Mobile Phone"
                                     ControlSource ="Mobile Phone"
                                     EventProcPrefix ="Mobile_Phone"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -2078,7 +2275,6 @@ Begin Form
                                             Caption ="Mobile Phone"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Mobile_Phone_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -2103,7 +2299,6 @@ Begin Form
                                     Name ="Fax Number"
                                     ControlSource ="Fax Number"
                                     EventProcPrefix ="Fax_Number"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
 
@@ -2132,7 +2327,6 @@ Begin Form
                                             Caption ="Fax Number"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Fax_Number_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             LayoutCachedLeft =540
                                             LayoutCachedTop =4395
@@ -2156,7 +2350,6 @@ Begin Form
                                     TabIndex =8
                                     Name ="Address"
                                     ControlSource ="Address"
-                                    GroupTable =1
                                     TopPadding =22
                                     RightPadding =38
                                     BottomPadding =8
@@ -2185,7 +2378,6 @@ Begin Form
                                             Name ="Address_Label"
                                             Caption ="Address"
                                             Tag ="AddNoResizeTag;RegenerateCaption;;DoNotResize;"
-                                            GroupTable =1
                                             TopPadding =22
                                             BottomPadding =8
                                             LayoutCachedLeft =540
@@ -2208,7 +2400,6 @@ Begin Form
                                     TabIndex =9
                                     Name ="City"
                                     ControlSource ="City"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =8
@@ -2237,7 +2428,6 @@ Begin Form
                                             Name ="City_Label"
                                             Caption ="City"
                                             Tag =";RegenerateCaption;"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =8
                                             LayoutCachedLeft =540
@@ -2261,7 +2451,6 @@ Begin Form
                                     Name ="State/Province"
                                     ControlSource ="State/Province"
                                     EventProcPrefix ="State_Province"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =8
@@ -2291,7 +2480,6 @@ Begin Form
                                             Caption ="State/Province"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="State_Province_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =8
                                             LayoutCachedLeft =540
@@ -2316,7 +2504,6 @@ Begin Form
                                     Name ="ZIP/Postal Code"
                                     ControlSource ="ZIP/Postal Code"
                                     EventProcPrefix ="ZIP_Postal_Code"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =8
@@ -2346,7 +2533,6 @@ Begin Form
                                             Caption ="Zip/Postal Code"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="ZIP_Postal_Code_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =8
                                             LayoutCachedLeft =540
@@ -2370,7 +2556,6 @@ Begin Form
                                     Name ="Country/Region"
                                     ControlSource ="Country/Region"
                                     EventProcPrefix ="Country_Region"
-                                    GroupTable =1
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =8
@@ -2400,7 +2585,6 @@ Begin Form
                                             Caption ="Country/Region"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Country_Region_Label"
-                                            GroupTable =1
                                             TopPadding =23
                                             BottomPadding =8
                                             LayoutCachedLeft =540
@@ -2663,7 +2847,6 @@ Begin Form
                                     Name ="Faculty ID"
                                     ControlSource ="Faculty ID"
                                     EventProcPrefix ="Faculty_ID"
-                                    GroupTable =2
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -2692,7 +2875,6 @@ Begin Form
                                             Caption ="Faculty ID"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Faculty_ID_Label"
-                                            GroupTable =2
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =7560
@@ -2722,7 +2904,6 @@ Begin Form
                                         "ant\";\"Principal\";\"Vice Principal\";\"Other Administrative\""
                                     ColumnWidths ="1440"
                                     EventProcPrefix ="Faculty_Type"
-                                    GroupTable =2
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -2755,7 +2936,6 @@ Begin Form
                                             Caption ="Faculty Type"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Faculty_Type_Label"
-                                            GroupTable =2
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =7560
@@ -2785,7 +2965,6 @@ Begin Form
                                     RowSourceType ="Value List"
                                     RowSource ="\"English\";\"Physics\";\"Mathematics\";\"Science\";\"Physical Education\""
                                     ColumnWidths ="1440"
-                                    GroupTable =2
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -2817,7 +2996,6 @@ Begin Form
                                             Name ="Department_Label"
                                             Caption ="Department"
                                             Tag =";RegenerateCaption;"
-                                            GroupTable =2
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =7560
@@ -2840,7 +3018,6 @@ Begin Form
                                     TabIndex =17
                                     Name ="Office"
                                     ControlSource ="Office"
-                                    GroupTable =2
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -2870,7 +3047,6 @@ Begin Form
                                             Name ="Office_Label"
                                             Caption ="Office"
                                             Tag =";RegenerateCaption;"
-                                            GroupTable =2
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =7560
@@ -2930,7 +3106,6 @@ Begin Form
                                     Caption =" "
                                     Tag =";DoNotResize;"
                                     EventProcPrefix ="Phone_Numbers_Label_LayoutLabel"
-                                    GroupTable =1
                                     TopPadding =360
                                     RightPadding =38
                                     BottomPadding =144
@@ -2957,7 +3132,6 @@ Begin Form
                                     Name ="Phone Numbers_Label"
                                     Caption ="Phone Numbers"
                                     EventProcPrefix ="Phone_Numbers_Label"
-                                    GroupTable =1
                                     TopPadding =360
                                     BottomPadding =144
                                     LayoutCachedLeft =540
@@ -2981,7 +3155,6 @@ Begin Form
                                     BackColor =-2147483613
                                     Name ="Address_Label2_LayoutLabel"
                                     Tag =";DoNotResize;"
-                                    GroupTable =1
                                     TopPadding =360
                                     RightPadding =38
                                     BottomPadding =144
@@ -3007,7 +3180,6 @@ Begin Form
                                     BackColor =-2147483613
                                     Name ="Address_Label2"
                                     Caption ="Address"
-                                    GroupTable =1
                                     TopPadding =360
                                     BottomPadding =144
                                     LayoutCachedLeft =540
@@ -3030,6 +3202,18 @@ Begin Form
                             Name ="Employment Information_Page"
                             EventProcPrefix ="Employment_Information_Page"
                             Caption ="Employment Information"
+                            LeftPadding =30
+                            TopPadding =30
+                            RightPadding =30
+                            BottomPadding =30
+                            GridlineStyleLeft =0
+                            GridlineStyleTop =0
+                            GridlineStyleRight =0
+                            GridlineStyleBottom =0
+                            GridlineWidthLeft =1
+                            GridlineWidthTop =1
+                            GridlineWidthRight =1
+                            GridlineWidthBottom =1
                             ImageData = Begin
                                 0x00000000
                             End
@@ -3048,7 +3232,6 @@ Begin Form
                                     Name ="ID Number"
                                     ControlSource ="ID Number"
                                     EventProcPrefix ="ID_Number"
-                                    GroupTable =4
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3078,7 +3261,6 @@ Begin Form
                                             Caption ="ID Number"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="ID_Number_Label"
-                                            GroupTable =4
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -3104,7 +3286,6 @@ Begin Form
                                     ControlSource ="Date of Birth"
                                     Format ="Short Date"
                                     EventProcPrefix ="Date_of_Birth"
-                                    GroupTable =4
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3134,7 +3315,6 @@ Begin Form
                                             Caption ="Date of Birth"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Date_of_Birth_Label"
-                                            GroupTable =4
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -3160,7 +3340,6 @@ Begin Form
                                     ControlSource ="Date of Hire"
                                     Format ="Short Date"
                                     EventProcPrefix ="Date_of_Hire"
-                                    GroupTable =4
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3190,7 +3369,6 @@ Begin Form
                                             Caption ="Date of Hire"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Date_of_Hire_Label"
-                                            GroupTable =4
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -3214,7 +3392,6 @@ Begin Form
                                     Name ="Salary"
                                     ControlSource ="Salary"
                                     Format ="$#,##0.00;($#,##0.00)"
-                                    GroupTable =4
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3243,7 +3420,6 @@ Begin Form
                                             Name ="Salary_Label"
                                             Caption ="Salary"
                                             Tag =";RegenerateCaption;"
-                                            GroupTable =4
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -3272,7 +3448,6 @@ Begin Form
                                     RowSource ="\"High School Diploma\";\"G.E.D.\";\"Bachelor's Degree\";\"Master's Degree\";\"P"
                                         "h.D.\""
                                     EventProcPrefix ="Education_Level_Degree"
-                                    GroupTable =4
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3303,7 +3478,6 @@ Begin Form
                                             Name ="Education Level/Degree_Label"
                                             Caption ="Level/Degree"
                                             EventProcPrefix ="Education_Level_Degree_Label"
-                                            GroupTable =4
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -3326,7 +3500,6 @@ Begin Form
                                     Name ="Focus Area"
                                     ControlSource ="Focus Area"
                                     EventProcPrefix ="Focus_Area"
-                                    GroupTable =4
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3356,7 +3529,6 @@ Begin Form
                                             Caption ="Focus Area"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Focus_Area_Label"
-                                            GroupTable =4
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -3379,7 +3551,6 @@ Begin Form
                                     Name ="School/Program Name"
                                     ControlSource ="School/Program Name"
                                     EventProcPrefix ="School_Program_Name"
-                                    GroupTable =4
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3409,7 +3580,6 @@ Begin Form
                                             Caption ="School/Program Name"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="School_Program_Name_Label"
-                                            GroupTable =4
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =540
@@ -3435,7 +3605,6 @@ Begin Form
                                     Name ="Label138_LayoutLabel"
                                     Caption =" "
                                     Tag =";DoNotResize;"
-                                    GroupTable =4
                                     TopPadding =302
                                     RightPadding =38
                                     BottomPadding =101
@@ -3462,7 +3631,6 @@ Begin Form
                                     Name ="Label136_LayoutLabel"
                                     Caption =" "
                                     Tag =";DoNotResize;"
-                                    GroupTable =4
                                     RightPadding =38
                                     BottomPadding =101
                                     LayoutCachedLeft =2760
@@ -3485,7 +3653,6 @@ Begin Form
                                     BackColor =-2147483613
                                     Name ="Label136"
                                     Caption ="General"
-                                    GroupTable =4
                                     BottomPadding =101
                                     LayoutCachedLeft =540
                                     LayoutCachedTop =915
@@ -3505,7 +3672,6 @@ Begin Form
                                     BackColor =-2147483613
                                     Name ="Label138"
                                     Caption ="Education"
-                                    GroupTable =4
                                     TopPadding =302
                                     BottomPadding =101
                                     LayoutCachedLeft =540
@@ -3528,6 +3694,18 @@ Begin Form
                             Name ="Emergency Information_Page"
                             EventProcPrefix ="Emergency_Information_Page"
                             Caption ="Emergency Information"
+                            LeftPadding =30
+                            TopPadding =30
+                            RightPadding =30
+                            BottomPadding =30
+                            GridlineStyleLeft =0
+                            GridlineStyleTop =0
+                            GridlineStyleRight =0
+                            GridlineStyleBottom =0
+                            GridlineWidthLeft =1
+                            GridlineWidthTop =1
+                            GridlineWidthRight =1
+                            GridlineWidthBottom =1
                             ImageData = Begin
                                 0x00000000
                             End
@@ -3545,7 +3723,6 @@ Begin Form
                                     Name ="Emergency Contact Name"
                                     ControlSource ="Emergency Contact Name"
                                     EventProcPrefix ="Emergency_Contact_Name"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3575,7 +3752,6 @@ Begin Form
                                             Caption ="Emergency Contact Name"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Emergency_Contact_Name_Label"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =525
@@ -3598,7 +3774,6 @@ Begin Form
                                     Name ="Emergency Contact Phone 1"
                                     ControlSource ="Emergency Contact Phone 1"
                                     EventProcPrefix ="Emergency_Contact_Phone_1"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3627,7 +3802,6 @@ Begin Form
                                             Name ="Emergency Contact Phone 1_Label"
                                             Caption ="Phone Number 1"
                                             EventProcPrefix ="Emergency_Contact_Phone_1_Label"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =525
@@ -3650,7 +3824,6 @@ Begin Form
                                     Name ="Emergency Contact Phone 2"
                                     ControlSource ="Emergency Contact Phone 2"
                                     EventProcPrefix ="Emergency_Contact_Phone_2"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3679,7 +3852,6 @@ Begin Form
                                             Name ="Emergency Contact Phone 2_Label"
                                             Caption ="Phone Number 2"
                                             EventProcPrefix ="Emergency_Contact_Phone_2_Label"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =525
@@ -3708,7 +3880,6 @@ Begin Form
                                     RowSource ="\"Parent\";\"Sibling\";\"Spouse\";\"Guardian\";\"Partner\";\"Child\";\"Other\""
                                     ColumnWidths ="1440"
                                     EventProcPrefix ="Emergency_Contact_Relationship"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =296
@@ -3739,7 +3910,6 @@ Begin Form
                                             Name ="Emergency Contact Relationship_Label"
                                             Caption ="Relationship"
                                             EventProcPrefix ="Emergency_Contact_Relationship_Label"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =296
                                             LayoutCachedLeft =525
@@ -3762,7 +3932,6 @@ Begin Form
                                     Name ="Physician Name"
                                     ControlSource ="Physician Name"
                                     EventProcPrefix ="Physician_Name"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3792,7 +3961,6 @@ Begin Form
                                             Caption ="Physician Name"
                                             Tag =";RegenerateCaption;"
                                             EventProcPrefix ="Physician_Name_Label"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =525
@@ -3816,7 +3984,6 @@ Begin Form
                                     Name ="Physician Phone Number"
                                     ControlSource ="Physician Phone Number"
                                     EventProcPrefix ="Physician_Phone_Number"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3845,7 +4012,6 @@ Begin Form
                                             Name ="Physician Phone Number_Label"
                                             Caption ="Phone Number"
                                             EventProcPrefix ="Physician_Phone_Number_Label"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =525
@@ -3869,7 +4035,6 @@ Begin Form
                                     Height =630
                                     Name ="Allergies"
                                     ControlSource ="Allergies"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3898,7 +4063,6 @@ Begin Form
                                             Name ="Allergies_Label"
                                             Caption ="Allergies"
                                             Tag ="AddNoResizeTag;RegenerateCaption;;DoNotResize;"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =525
@@ -3922,7 +4086,6 @@ Begin Form
                                     Height =630
                                     Name ="Medications"
                                     ControlSource ="Medications"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =31
@@ -3951,7 +4114,6 @@ Begin Form
                                             Name ="Medications_Label"
                                             Caption ="Medications"
                                             Tag ="AddNoResizeTag;RegenerateCaption;;DoNotResize;"
-                                            GroupTable =5
                                             TopPadding =23
                                             BottomPadding =31
                                             LayoutCachedLeft =525
@@ -3979,7 +4141,6 @@ Begin Form
                                     Caption =" "
                                     Tag =";DoNotResize;"
                                     EventProcPrefix ="Medical_Information_Label_LayoutLabel"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =22
@@ -4007,7 +4168,6 @@ Begin Form
                                     Name ="Medical Information_Label"
                                     Caption ="Medical Information"
                                     EventProcPrefix ="Medical_Information_Label"
-                                    GroupTable =5
                                     TopPadding =23
                                     BottomPadding =22
                                     LayoutCachedLeft =525
@@ -4032,7 +4192,6 @@ Begin Form
                                     Name ="Emergency Contact_Label_Label_LayoutLabel"
                                     Tag =";DoNotResize;"
                                     EventProcPrefix ="Emergency_Contact_Label_Label_LayoutLabel"
-                                    GroupTable =5
                                     TopPadding =23
                                     RightPadding =38
                                     BottomPadding =23
@@ -4058,7 +4217,6 @@ Begin Form
                                     Name ="Emergency Contact_Label_Label"
                                     Caption ="Emergency Contact"
                                     EventProcPrefix ="Emergency_Contact_Label_Label"
-                                    GroupTable =5
                                     TopPadding =23
                                     BottomPadding =23
                                     LayoutCachedLeft =525
@@ -4085,7 +4243,6 @@ Begin Form
                     Name ="Go to Contact_Label_LayoutLabel"
                     Tag =";DoNotResize;"
                     EventProcPrefix ="Go_to_Contact_Label_LayoutLabel"
-                    GroupTable =3
                     TopPadding =0
                     BottomPadding =0
                     GridlineColor =-2147483609
@@ -4109,7 +4266,6 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cboGoToContact_LayoutLabel"
                     Tag =";DoNotResize;"
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -4136,7 +4292,6 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cmdEmail_LayoutLabel"
                     Tag =";DoNotResize;"
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -4163,7 +4318,6 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cmdCreateOutlookContact_LayoutLabel"
                     Tag =";DoNotResize;"
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
@@ -4190,7 +4344,6 @@ Begin Form
                     BackColor =-2147483613
                     Name ="cmdSaveandNew_LayoutLabel"
                     Tag =";DoNotResize;"
-                    GroupTable =3
                     TopPadding =0
                     RightPadding =38
                     BottomPadding =0
